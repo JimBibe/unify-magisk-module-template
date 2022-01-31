@@ -1,7 +1,6 @@
-id=id
-name=name
-version=v1
+id=EnablelibOpenCLPixel3
+name=Enabled libOpenCL on Pixel 3 XL
+version=1
 versionCode=1
-author=author
-description=description
-template=3
+author=JimBibe
+description=Replace the public library file in vendor
